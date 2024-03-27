@@ -8,21 +8,31 @@ Before using, make sure to replace all instances of the following strings in the
 `foundryvtt-module-template` - The repository/module name
 
 `"description": "..."` - The module description
+
 `GithubUsername` - Your github username or organization name
+
 `RepositoryName` - Your repository's name
+
 `Author Name` - Your name
+
 `"license": "MIT",` - Replace `MIT` with your desired license
 
 ### `package-lock.json`
 `foundryvtt-module-template` - The repository/module name
+
 `"license": "MIT",` - Replace `MIT` with your desired license
 
 ### `module.json`
 `foundryvtt-module-template` - The repository/module name
+
 `Module Name` - The human-readable module name
+
 `Module Description` - A short description of the module's functionality
+
 `Author Name` - Your name
+
 `Discord Name` - Your discord username
+
 `"url": "github.com/GithubUsername",` - Replace `GithubUsername` with yours, or replace the whole string with another website
 
 ### `lang/en.json`

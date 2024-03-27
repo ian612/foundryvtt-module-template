@@ -4,7 +4,7 @@ This is a module template for FoundryVTT Modules with included build scripts and
 ## Replace Before Use
 Before using, make sure to replace all instances of the following strings in the repository files
 
-### `package.json`
+### package.json
 `foundryvtt-module-template` - The repository/module name
 
 `"description": "..."` - The module description
@@ -17,12 +17,12 @@ Before using, make sure to replace all instances of the following strings in the
 
 `"license": "MIT",` - Replace `MIT` with your desired license
 
-### `package-lock.json`
+### package-lock.json
 `foundryvtt-module-template` - The repository/module name
 
 `"license": "MIT",` - Replace `MIT` with your desired license
 
-### `module.json`
+### module.json
 `foundryvtt-module-template` - The repository/module name
 
 `Module Name` - The human-readable module name
@@ -35,8 +35,8 @@ Before using, make sure to replace all instances of the following strings in the
 
 `"url": "github.com/GithubUsername",` - Replace `GithubUsername` with yours, or replace the whole string with another website
 
-### `lang/en.json`
+### lang/en.json
 `ModuleSpace` - The localization namespace you want to use for the module
 
-### `init.mjs`
+### init.mjs
 `foundryvtt-module-template` - The repository/module name

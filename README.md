@@ -6,6 +6,7 @@ Before using, make sure to replace all instances of the following strings in the
 
 ### `package.json`
 `foundryvtt-module-template` - The repository/module name
+
 `"description": "..."` - The module description
 `GithubUsername` - Your github username or organization name
 `RepositoryName` - Your repository's name

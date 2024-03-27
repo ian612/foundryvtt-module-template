@@ -1,0 +1,42 @@
+{
+  "id": "foundryvtt-module-template",
+  "title": "Module Name",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+    ]
+  },
+  "description": "Module Description.",
+  "authors": [
+    {
+      "name": "Author Name",
+      "discord": "Discord Name",
+      "url": "github.com/GithubUsername",
+      "flags": {}
+    }
+  ],
+  "manifest": "updatedByRelease",
+  "url": "updatedByRelease",
+  "download": "updatedByRelease",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "dist/lang/en.json",
+      "flags": {}
+    }
+  ],
+  "license": "LICENSE",
+  "flags": {
+    "hotReload": {
+      "extensions": ["css", "hbs", "json"],
+      "paths": ["lang", "styles", "templates"]
+    }
+  },
+  "esmodules": ["dist/init.mjs"],
+  "styles": ["dist/main.css"]
+}
